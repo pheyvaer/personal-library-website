@@ -27,6 +27,6 @@ Be sure to update the `me` parameter in `_config.yml` so that it points to your 
 - [lazyload](https://github.com/fasterize/lazyload) for the lazy loading of the book covers
 
 # License and contributions
-The website is copyrighted by [Pieter Heyvaert](https://pieterheyvaert.com) and released under the [MIT License]().
+The website is copyrighted by [Pieter Heyvaert](https://pieterheyvaert.com) and released under the [MIT License](https://github.com/pheyvaer/personal-library-website/blob/master/LICENSE).
 
 Contributions are welcome, and bug reports or pull requests are always helpful. If you plan to implement a larger feature, it's best to contact me first.
