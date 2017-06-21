@@ -1,0 +1,18 @@
+title: My Library
+author: Test User
+url: "http://www.mywebsite.com"
+description: "This is my library."
+me: "http://example.com.com/#me"
+
+permalink: pretty
+
+markdown: kramdown
+
+#tracking_id:
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+#social:
+#  twitter:
